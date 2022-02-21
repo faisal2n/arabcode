@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo1.svg'
 locale:             ar_SY
-url:                https://mulham.github.io
+url:                https://faisal2n.github.io/arabcode
 
 # Jekyll
 permalink:          /:title/
@@ -34,7 +34,7 @@ google:
 email:			mulham94@gmail.com
 twitter:            mulham_ib
 #facebook:           username
-github:             mulham
+github:             faisal2n
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          mulham-alibrahim
 #xing:              username
