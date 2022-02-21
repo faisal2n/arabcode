@@ -2,7 +2,7 @@
   
 # قالب مدونة Jekyll أنيق وسريع متوافق مع AMP
 
-لاستعراض القالب مباشرة اضغط [هنا](https://mulham.github.io) 
+لاستعراض القالب مباشرة اضغط [هنا](https://faisal2n.github.io/arabcode) 
 
 ## المزايا
 
